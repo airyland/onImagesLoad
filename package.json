@@ -1,0 +1,26 @@
+{
+  "family": "moe",
+  "name": "onImagesLoad",
+  "version": "1.2.2",
+  "description": "check if images have been loaded",
+  "homepage": "https://github.com/airyland/onImagesLoad",
+  "author": "cirkuit",
+  "maintainers": [
+    "cirkuit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airyland/onImagesLoad.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["onImagesLoad.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
